@@ -3,7 +3,6 @@ require([
 	'viewModels/viewModel',
 
 	//Components
-	'components/textEditor/textEditor'
 ], function(
 	ko,
 	viewModel
